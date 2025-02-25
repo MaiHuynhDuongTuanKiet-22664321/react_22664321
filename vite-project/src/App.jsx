@@ -1,10 +1,12 @@
 import './App.css'
-import Mycomponent from './components/Mycomponents'
+import StudentApp from './AppSV/StudentApp'
+import App2 from './ex-3-class/App2'
+
 
 function App() {
   return (
     <>
-      <Mycomponent />
+      <StudentApp></StudentApp>
     </>
   )
 }
